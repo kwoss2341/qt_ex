@@ -1,7 +1,6 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
 
-build
 *~
 *.autosave
 *.a
@@ -71,4 +70,8 @@ Thumbs.db
 # --------
 *.dll
 *.exe
+
+# my
+build-02_Gui_App-Desktop_Qt_6_0_1_MinGW_64_bit-Debug/
+build-01_Console_App-Desktop_Qt_6_0_1_MinGW_64_bit-Debug/
 
