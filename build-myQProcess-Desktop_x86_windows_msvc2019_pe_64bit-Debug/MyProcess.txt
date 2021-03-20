@@ -1,0 +1,5 @@
+4
+argv[0] = C:\Users\kij23\Desktop\kwoss.exe
+argv[1] = qProcess !!
+argv[2] = my
+argv[3] = sample code
